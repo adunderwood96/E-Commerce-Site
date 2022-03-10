@@ -15,6 +15,14 @@
 
   ## Demo
 
+  Part One:
+  https://youtu.be/5EGyKGVD5NI
+  https://drive.google.com/file/d/1OPkWkl_FDb6OmdaKbQ6P1iH0XdJs7Os9/view
+  
+  Part Two: 
+  https://drive.google.com/file/d/1M2_F8sDtNsBes6MddColH5to8wPuH0Jd/view
+  https://youtu.be/f3xCHbZCiJs
+
   ## Install
   npm i
 
